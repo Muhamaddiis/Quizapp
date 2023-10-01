@@ -1,7 +1,7 @@
 # BLOG
 
 #### By Muhamad Diis
-##### [Site] (https://muhamaddiis.github.io/Quizzapp)
+##### [Site] (https://muhamaddiis.github.io/Quizapp/)
 
 
 ## Table of Content
