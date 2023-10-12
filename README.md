@@ -1,4 +1,4 @@
-# BLOG
+# QuizApp
 
 #### By Muhamad Diis
 ##### [Site] (https://muhamaddiis.github.io/Quizapp/)
